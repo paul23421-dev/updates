@@ -1,0 +1,11 @@
+version: 2.0.2
+files:
+  - url: mts-link-rooms-desktop.exe
+    sha512: MOJDJWkikcB7g+upy8EpwemYNBQNhL64X58LVeig7TM2vRC676oOMRSW077KYFokGBQMr+7cR9yc31r0MrT9YQ==
+    size: 114614115
+  - url: mts-link-rooms-desktop.msi
+    sha512: 4OPh7BbuvAzfNZXRaawkUr1cGo2apODDkqqzdPUR9MpK77hQFPLlFCVOlDjVUiK9JmzSYotuGRWivB1NV4qA1g==
+    size: 110895104
+path: mts-link-rooms-desktop.exe
+sha512: MOJDJWkikcB7g+upy8EpwemYNBQNhL64X58LVeig7TM2vRC676oOMRSW077KYFokGBQMr+7cR9yc31r0MrT9YQ==
+releaseDate: '2025-07-16T12:21:37.510Z'
